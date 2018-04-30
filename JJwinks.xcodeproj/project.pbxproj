@@ -7,14 +7,62 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		052516C9208ED29D009C0262 /* OurMissionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516C8208ED29D009C0262 /* OurMissionViewController.swift */; };
+		052516CB208ED7E9009C0262 /* LightHugViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516CA208ED7E9009C0262 /* LightHugViewController.swift */; };
+		052516CD208FC716009C0262 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516CC208FC716009C0262 /* MapsViewController.swift */; };
+		052516CF208FC742009C0262 /* BottomsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516CE208FC742009C0262 /* BottomsViewController.swift */; };
+		052516D1208FC793009C0262 /* TopsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516D0208FC793009C0262 /* TopsViewController.swift */; };
+		052516D3208FC7A4009C0262 /* RobesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516D2208FC7A4009C0262 /* RobesViewController.swift */; };
+		052516D5208FC7B7009C0262 /* NightgownsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 052516D4208FC7B7009C0262 /* NightgownsViewController.swift */; };
+		058F63452093FD7700CE957E /* GirlsTripTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F63442093FD7700CE957E /* GirlsTripTableViewCell.swift */; };
+		058F63472093FDE800CE957E /* GirlsTripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F63462093FDE800CE957E /* GirlsTripViewController.swift */; };
+		058F63492094022700CE957E /* MaxiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F63482094022700CE957E /* MaxiTableViewCell.swift */; };
+		058F634D20940F8A00CE957E /* RobesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F634C20940F8A00CE957E /* RobesTableViewCell.swift */; };
+		058F634F2094168E00CE957E /* RibbedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F634E2094168E00CE957E /* RibbedTableViewCell.swift */; };
+		058F635120941DF700CE957E /* TopsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F635020941DF700CE957E /* TopsTableViewCell.swift */; };
+		058F6353209423C500CE957E /* WeekenderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 058F6352209423C500CE957E /* WeekenderTableViewCell.swift */; };
+		05C1299D2090E27B00B50576 /* TopsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1299C2090E27B00B50576 /* TopsCollectionViewController.swift */; };
+		05C1299F2090E4C400B50576 /* BottomsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C1299E2090E4C400B50576 /* BottomsCollectionViewController.swift */; };
+		05C129A12090E4D600B50576 /* RobesCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129A02090E4D600B50576 /* RobesCollectionViewController.swift */; };
+		05C129A52092777D00B50576 /* WalkOfFameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129A42092777D00B50576 /* WalkOfFameViewController.swift */; };
+		05C129A7209277BF00B50576 /* WeekenderTopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129A6209277BF00B50576 /* WeekenderTopViewController.swift */; };
+		05C129A9209277DA00B50576 /* HyggeRobeRibbedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129A8209277DA00B50576 /* HyggeRobeRibbedViewController.swift */; };
+		05C129AB209277F200B50576 /* RoomServiceMaxiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129AA209277F200B50576 /* RoomServiceMaxiViewController.swift */; };
+		05C129AF209387CD00B50576 /* BottomsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129AE209387CD00B50576 /* BottomsTableViewCell.swift */; };
+		05C129B12093A17700B50576 /* WalfOfFameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C129B02093A17700B50576 /* WalfOfFameTableViewCell.swift */; };
 		05C3988D206996280034C1F5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3988C206996280034C1F5 /* AppDelegate.swift */; };
 		05C3988F206996280034C1F5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05C3988E206996280034C1F5 /* ViewController.swift */; };
 		05C39892206996280034C1F5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C39890206996280034C1F5 /* Main.storyboard */; };
 		05C39894206996280034C1F5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 05C39893206996280034C1F5 /* Assets.xcassets */; };
 		05C39897206996280034C1F5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05C39895206996280034C1F5 /* LaunchScreen.storyboard */; };
+		05FD6DF6208E5EC5003DFBB0 /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05FD6DF5208E5EC5003DFBB0 /* AboutUsViewController.swift */; };
+		28518512ED3DD60FD36730D4 /* Pods_JJwinks.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2E2D498FCBA98CBEBF5666E8 /* Pods_JJwinks.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		052516C8208ED29D009C0262 /* OurMissionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OurMissionViewController.swift; sourceTree = "<group>"; };
+		052516CA208ED7E9009C0262 /* LightHugViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightHugViewController.swift; sourceTree = "<group>"; };
+		052516CC208FC716009C0262 /* MapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapsViewController.swift; sourceTree = "<group>"; };
+		052516CE208FC742009C0262 /* BottomsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomsViewController.swift; sourceTree = "<group>"; };
+		052516D0208FC793009C0262 /* TopsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopsViewController.swift; sourceTree = "<group>"; };
+		052516D2208FC7A4009C0262 /* RobesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobesViewController.swift; sourceTree = "<group>"; };
+		052516D4208FC7B7009C0262 /* NightgownsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightgownsViewController.swift; sourceTree = "<group>"; };
+		058F63442093FD7700CE957E /* GirlsTripTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirlsTripTableViewCell.swift; sourceTree = "<group>"; };
+		058F63462093FDE800CE957E /* GirlsTripViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GirlsTripViewController.swift; sourceTree = "<group>"; };
+		058F63482094022700CE957E /* MaxiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaxiTableViewCell.swift; sourceTree = "<group>"; };
+		058F634C20940F8A00CE957E /* RobesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobesTableViewCell.swift; sourceTree = "<group>"; };
+		058F634E2094168E00CE957E /* RibbedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RibbedTableViewCell.swift; sourceTree = "<group>"; };
+		058F635020941DF700CE957E /* TopsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopsTableViewCell.swift; sourceTree = "<group>"; };
+		058F6352209423C500CE957E /* WeekenderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekenderTableViewCell.swift; sourceTree = "<group>"; };
+		05C1299C2090E27B00B50576 /* TopsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopsCollectionViewController.swift; sourceTree = "<group>"; };
+		05C1299E2090E4C400B50576 /* BottomsCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomsCollectionViewController.swift; sourceTree = "<group>"; };
+		05C129A02090E4D600B50576 /* RobesCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RobesCollectionViewController.swift; sourceTree = "<group>"; };
+		05C129A42092777D00B50576 /* WalkOfFameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalkOfFameViewController.swift; sourceTree = "<group>"; };
+		05C129A6209277BF00B50576 /* WeekenderTopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekenderTopViewController.swift; sourceTree = "<group>"; };
+		05C129A8209277DA00B50576 /* HyggeRobeRibbedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HyggeRobeRibbedViewController.swift; sourceTree = "<group>"; };
+		05C129AA209277F200B50576 /* RoomServiceMaxiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomServiceMaxiViewController.swift; sourceTree = "<group>"; };
+		05C129AE209387CD00B50576 /* BottomsTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomsTableViewCell.swift; sourceTree = "<group>"; };
+		05C129B02093A17700B50576 /* WalfOfFameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalfOfFameTableViewCell.swift; sourceTree = "<group>"; };
 		05C39889206996280034C1F5 /* JJwinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JJwinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05C3988C206996280034C1F5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05C3988E206996280034C1F5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +70,10 @@
 		05C39893206996280034C1F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		05C39896206996280034C1F5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		05C39898206996280034C1F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		05FD6DF5208E5EC5003DFBB0 /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
+		2E2D498FCBA98CBEBF5666E8 /* Pods_JJwinks.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JJwinks.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9518117C01DC5DA2EEF36D01 /* Pods-JJwinks.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JJwinks.release.xcconfig"; path = "Pods/Target Support Files/Pods-JJwinks/Pods-JJwinks.release.xcconfig"; sourceTree = "<group>"; };
+		D083C41A197463720D8B229B /* Pods-JJwinks.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JJwinks.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JJwinks/Pods-JJwinks.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28518512ED3DD60FD36730D4 /* Pods_JJwinks.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +93,8 @@
 			children = (
 				05C3988B206996280034C1F5 /* JJwinks */,
 				05C3988A206996280034C1F5 /* Products */,
+				140F794B5487F0E0BB4321F4 /* Pods */,
+				C2798481D574E707755724A8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +110,54 @@
 			isa = PBXGroup;
 			children = (
 				05C3988C206996280034C1F5 /* AppDelegate.swift */,
+				05FD6DF5208E5EC5003DFBB0 /* AboutUsViewController.swift */,
 				05C3988E206996280034C1F5 /* ViewController.swift */,
+				052516C8208ED29D009C0262 /* OurMissionViewController.swift */,
+				052516CA208ED7E9009C0262 /* LightHugViewController.swift */,
 				05C39890206996280034C1F5 /* Main.storyboard */,
+				052516D2208FC7A4009C0262 /* RobesViewController.swift */,
+				052516D0208FC793009C0262 /* TopsViewController.swift */,
+				052516D4208FC7B7009C0262 /* NightgownsViewController.swift */,
+				052516CE208FC742009C0262 /* BottomsViewController.swift */,
+				052516CC208FC716009C0262 /* MapsViewController.swift */,
+				05C1299E2090E4C400B50576 /* BottomsCollectionViewController.swift */,
+				05C129A42092777D00B50576 /* WalkOfFameViewController.swift */,
+				05C129AE209387CD00B50576 /* BottomsTableViewCell.swift */,
+				05C129B02093A17700B50576 /* WalfOfFameTableViewCell.swift */,
+				058F63462093FDE800CE957E /* GirlsTripViewController.swift */,
+				058F63442093FD7700CE957E /* GirlsTripTableViewCell.swift */,
+				05C129AA209277F200B50576 /* RoomServiceMaxiViewController.swift */,
+				058F63482094022700CE957E /* MaxiTableViewCell.swift */,
+				05C129A02090E4D600B50576 /* RobesCollectionViewController.swift */,
+				058F634C20940F8A00CE957E /* RobesTableViewCell.swift */,
+				05C129A8209277DA00B50576 /* HyggeRobeRibbedViewController.swift */,
+				058F634E2094168E00CE957E /* RibbedTableViewCell.swift */,
+				05C1299C2090E27B00B50576 /* TopsCollectionViewController.swift */,
+				058F635020941DF700CE957E /* TopsTableViewCell.swift */,
+				05C129A6209277BF00B50576 /* WeekenderTopViewController.swift */,
+				058F6352209423C500CE957E /* WeekenderTableViewCell.swift */,
 				05C39893206996280034C1F5 /* Assets.xcassets */,
 				05C39895206996280034C1F5 /* LaunchScreen.storyboard */,
 				05C39898206996280034C1F5 /* Info.plist */,
 			);
 			path = JJwinks;
+			sourceTree = "<group>";
+		};
+		140F794B5487F0E0BB4321F4 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D083C41A197463720D8B229B /* Pods-JJwinks.debug.xcconfig */,
+				9518117C01DC5DA2EEF36D01 /* Pods-JJwinks.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C2798481D574E707755724A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2E2D498FCBA98CBEBF5666E8 /* Pods_JJwinks.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +167,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 05C3989B206996280034C1F5 /* Build configuration list for PBXNativeTarget "JJwinks" */;
 			buildPhases = (
+				CAD97015A49D2AD01EC65715 /* [CP] Check Pods Manifest.lock */,
 				05C39885206996280034C1F5 /* Sources */,
 				05C39886206996280034C1F5 /* Frameworks */,
 				05C39887206996280034C1F5 /* Resources */,
+				8E8EA7CAF48F180EB5683B03 /* [CP] Embed Pods Frameworks */,
+				772773673F64CEC7908EC050 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -91,7 +190,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 0930;
 				ORGANIZATIONNAME = Morrissey;
 				TargetAttributes = {
 					05C39888206996280034C1F5 = {
@@ -131,13 +230,91 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		772773673F64CEC7908EC050 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-JJwinks/Pods-JJwinks-resources.sh",
+				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleMaps.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JJwinks/Pods-JJwinks-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8E8EA7CAF48F180EB5683B03 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JJwinks/Pods-JJwinks-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CAD97015A49D2AD01EC65715 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-JJwinks-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		05C39885206996280034C1F5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				058F63452093FD7700CE957E /* GirlsTripTableViewCell.swift in Sources */,
+				052516D1208FC793009C0262 /* TopsViewController.swift in Sources */,
+				052516C9208ED29D009C0262 /* OurMissionViewController.swift in Sources */,
+				058F635120941DF700CE957E /* TopsTableViewCell.swift in Sources */,
+				052516D5208FC7B7009C0262 /* NightgownsViewController.swift in Sources */,
 				05C3988F206996280034C1F5 /* ViewController.swift in Sources */,
+				052516CB208ED7E9009C0262 /* LightHugViewController.swift in Sources */,
+				05C1299D2090E27B00B50576 /* TopsCollectionViewController.swift in Sources */,
+				05C129AB209277F200B50576 /* RoomServiceMaxiViewController.swift in Sources */,
+				05C129A9209277DA00B50576 /* HyggeRobeRibbedViewController.swift in Sources */,
+				058F6353209423C500CE957E /* WeekenderTableViewCell.swift in Sources */,
+				05C129A52092777D00B50576 /* WalkOfFameViewController.swift in Sources */,
+				05FD6DF6208E5EC5003DFBB0 /* AboutUsViewController.swift in Sources */,
+				05C1299F2090E4C400B50576 /* BottomsCollectionViewController.swift in Sources */,
+				052516CF208FC742009C0262 /* BottomsViewController.swift in Sources */,
+				052516D3208FC7A4009C0262 /* RobesViewController.swift in Sources */,
+				052516CD208FC716009C0262 /* MapsViewController.swift in Sources */,
+				058F634D20940F8A00CE957E /* RobesTableViewCell.swift in Sources */,
+				05C129AF209387CD00B50576 /* BottomsTableViewCell.swift in Sources */,
+				058F63492094022700CE957E /* MaxiTableViewCell.swift in Sources */,
+				058F63472093FDE800CE957E /* GirlsTripViewController.swift in Sources */,
+				05C129B12093A17700B50576 /* WalfOfFameTableViewCell.swift in Sources */,
+				05C129A12090E4D600B50576 /* RobesCollectionViewController.swift in Sources */,
+				05C129A7209277BF00B50576 /* WeekenderTopViewController.swift in Sources */,
 				05C3988D206996280034C1F5 /* AppDelegate.swift in Sources */,
+				058F634F2094168E00CE957E /* RibbedTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +354,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -184,6 +362,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -234,6 +413,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -241,6 +421,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -272,6 +453,7 @@
 		};
 		05C3989C206996280034C1F5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = D083C41A197463720D8B229B /* Pods-JJwinks.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +469,7 @@
 		};
 		05C3989D206996280034C1F5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9518117C01DC5DA2EEF36D01 /* Pods-JJwinks.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
